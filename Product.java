@@ -4,8 +4,7 @@ public class Product {
 	private String productCode;
 	private String description;
 	private double price;
-	private 
-	int count;
+	private int count;
 	
 	public Product(String initCode, String initDescription, double initPrice, int initCount) {
 		productCode = initCode;
